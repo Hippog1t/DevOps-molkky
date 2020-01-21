@@ -8,4 +8,4 @@ class Molkky{
 	}
 }
 
-export default Molkky;
+module.exports = {Molkky};
